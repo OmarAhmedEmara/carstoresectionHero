@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e5f37b8.css",
+    "main.js": "/static/js/main.9a0158de.js",
+    "static/media/div.HeroBanner_background__B5YAs (1).png": "/static/media/div.HeroBanner_background__B5YAs (1).beea141f40cb63067861.png",
+    "index.html": "/index.html",
+    "main.1e5f37b8.css.map": "/static/css/main.1e5f37b8.css.map",
+    "main.9a0158de.js.map": "/static/js/main.9a0158de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e5f37b8.css",
+    "static/js/main.9a0158de.js"
+  ]
+}
